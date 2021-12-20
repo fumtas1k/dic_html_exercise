@@ -129,6 +129,13 @@ ul.top_menu {
   width: 100%;
 }
 
+.side_menu .point {
+  background-color: #fcecec;
+}
+
+.side_menu .point a {
+  color: #4D4D4D;
+}
 
 .footer {
   background-color: #4d4d4d;
@@ -147,7 +154,6 @@ ul.top_menu {
   display: table-cell;
 
 }
-
 
 .clearfix:after {
   content: "";
