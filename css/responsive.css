@@ -16,6 +16,9 @@
     height: 100px;
     padding: 10px;
   }
+  .company td {
+    width: 280px;
+  }
   .footer {
     height: 100px;
   }
