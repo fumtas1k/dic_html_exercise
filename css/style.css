@@ -14,7 +14,6 @@ body {
   position: relative;
 }
 
-
 ul {
   margin: 0;
   padding: 0;
@@ -64,6 +63,7 @@ ul.top_menu {
 
 .wrapper {
   margin-top: 10px;
+  padding-bottom: 100px;
 }
 
 .side_menu {
@@ -116,15 +116,36 @@ ul.top_menu {
   line-height: 2em;
 }
 
+.banner_content {
+  margin-top: 10px;
+  display: table;
+}
+
+.banner_content p {
+  display: table-cell;
+}
+
+.banner_content p img {
+  width: 100%;
+}
+
+
 .footer {
   background-color: #4d4d4d;
-  height: 100px;
   width: 100%;
+  height: 100px;
+  position: absolute;
+  bottom: 0;
+  display: table;
 }
 
 .footer p {
   font-size: 1rem;
   color: #fff;
+  text-align: center;
+  vertical-align: middle;
+  display: table-cell;
+
 }
 
 
