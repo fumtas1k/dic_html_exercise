@@ -2,7 +2,7 @@
   html {
     font-size: 50%;
   }
-  body {
+  .container {
     width: 490px;
   }
   .side_menu {
@@ -11,5 +11,12 @@
   .content {
     width: 330px;
     margin-left: 10px;
+  }
+  .news {
+    height: 100px;
+    padding: 10px;
+  }
+  .footer {
+    height: 100px;
   }
 }
