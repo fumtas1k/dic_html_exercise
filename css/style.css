@@ -50,6 +50,57 @@ ul.top_menu {
   margin: 0;
 }
 
+.image_area {
+  width: 100%;
+}
+
+.wrapper {
+  margin-top: 10px;
+}
+
+.side_menu {
+  width: 300px;
+  float: left;
+}
+
+.side_menu li {
+  background-color: #f5b4b3;
+  height: 6rem;
+  margin-bottom: 10px;
+}
+
+.side_menu li a {
+  font-size: 2rem;
+  color: #fff;
+  text-decoration: none;
+  display: block;
+  padding: 2rem;
+}
+
+.side_menu li:hover {
+  background-color: rgba(245, 180, 179, 0.6);
+}
+
+.banner img {
+  width: 100%;
+}
+
+.banner img:hover {
+  opacity: 0.6;
+}
+
+.banner {
+  margin-top: 20px;
+}
+
+/* .content {
+  height: 200px;
+  width: 660px;
+  float: left;
+  background-color: #848484;
+  margin-left: 20px;
+} */
+
 .clearfix:after {
   content: "";
   display: block;

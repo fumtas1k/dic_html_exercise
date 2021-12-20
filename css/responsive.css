@@ -1,0 +1,15 @@
+@media (max-width: 970px) {
+  html {
+    font-size: 50%;
+  }
+  body {
+    width: 490px;
+  }
+  .side_menu {
+    width: 150px;
+  }
+  .content {
+    width: 330px;
+    margin-left: 10px;
+  }
+}
